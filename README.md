@@ -3,7 +3,7 @@
 This is a simple web application, which is made using streamlit, to detect and segment fingerprints from fingerphotos or fingerselfies.
 
 This is deployed in **Streamlit Community Cloud**.
-Check-out the link: [Fingerphoto Detection and Segmentation](https://fingerphoto-detection-and-segmentation.streamlit.app/)
+Check-out the link: [Fingerphoto Detection and Segmentation](https://fingerphotodetectionandsegmentation.streamlit.app/)
 
 
 **Folder Description:**
