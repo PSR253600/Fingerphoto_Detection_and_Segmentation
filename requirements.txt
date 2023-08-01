@@ -4,4 +4,4 @@ numpy
 PILLOW
 torch
 torchvision
-opencv-python
+opencv-python-headless
