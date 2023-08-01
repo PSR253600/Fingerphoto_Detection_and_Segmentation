@@ -252,13 +252,13 @@ def process_segmented_img(conf, model):
 
 #Page Specifications
 st.set_page_config(
-    page_title="Fingerprint Detection and Segmentation",
+    page_title="Fingerphoto Detection and Segmentation",
     layout="wide",
     initial_sidebar_state="expanded"
 )
 
 #Title of the page
-st.title("Fingerprint Detection and Segmentation (YOLOv8)")
+st.title("Detection and Segmentation of fingerprints (YOLOv8)")
 
 #Title of the sidebar
 st.sidebar.header("YOLOv8 Custom Model Configuration")
