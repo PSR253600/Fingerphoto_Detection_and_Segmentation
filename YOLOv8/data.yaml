@@ -1,0 +1,6 @@
+train: train/images #Path to the directory containing images for training
+val: valid/images #Path to the directory containing images for validation
+test: test/images #Path to the directory containing images for testing
+
+nc: 1 #Number of classes
+names: ['Fingerprint'] #Fingerprint class
